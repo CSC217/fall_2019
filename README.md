@@ -12,4 +12,4 @@ Visit our Slack channel [here](https://csc217-fall2019.slack.com).
 
 Launch a Binder instance of this repo below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CSC217/fall_2019/staging)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CSC217/fall_2019/master)

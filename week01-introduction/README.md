@@ -27,4 +27,10 @@ The first part of this article involves downloading Anaconda, which is part of y
 #### [Jupyter Notebook Keyboard Shortcuts and Text Snippets for Beginners](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
 More tips to get you comfortable with using Jupyter Notebook.
 
-#### [Intro to Pandas Data Structures](http://gregreda.com/2013/10/26/intro-to-pandas-data-structures/)  
+#### [Intro to Pandas Data Structures](http://gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+
+It is essential to the course that you get comfortable with the syntax and style of Pandas ASAP. Pandas is an invaluable tool for Data organization and exploration, similar to a Dataframe in R, a database in SQL, or even an Excel spreadsheet. Pandas is incredibly powerful, but still approachable. Most importantly, getting an early grasp of Pandas will help you start analyzing real-world datasets because you can use it to read CSV files or even pull tables directly from websites such as Wikipedia. You don't need to memorize every single function but you should be comfortable with it structurally so you know the right questions to ask.
+
+#### [Things in Pandas I Wish I'd Known Earlier](https://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)
+
+Some more tips on working with Pandas.
