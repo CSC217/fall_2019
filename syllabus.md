@@ -50,14 +50,15 @@ By the end of the course, students should be proficient at:
 
 **Homework:** Students will be given weekly homework assignments in Python to check for comprehension of the material. Homework will be graded on a 5-point scale for completeness and effort. Homework will be due at the beginning of class every week. **Any homework submitted after 6:30 PM on the Wednesday it is due will be scored as 0/5.** Exceptions will be granted only as mandated by CUNY policy.
 
+
 **Participation:** Students are expected to attend class and be active participants in discussion.
 
-#### Numerical to Letter Grades
+#### Grade Conversion
 
-Grades throughout the class will be posted to Blackboard in numerical format. Below is the translation between letter and number grades
+Grades throughout the class will be posted to Blackboard in numeric format. Below is the official rubric between letter grades, GPA grades, and numeric grades.
 
 | Letter | GPA | Numeric
-|:---: |:---: |:---: 
+|:---: |:---: |:---:
 | A+ | 4.0 | 97.0 - 100.0
 | A | 4.0 | 93.0 - 96.9
 | A- | 3.7 | 90.0 - 92.9
@@ -68,7 +69,7 @@ Grades throughout the class will be posted to Blackboard in numerical format. Be
 | C | 2.0 | 73.0 - 76.9
 | C- | 1.7 | 70.0 - 72.9
 | D+ | 1.3 | 67.0 - 69.9
-| D | 1.0 | 60.0 - 69.9 
+| D | 1.0 | 60.0 - 69.9
 
 ## Texts and Materials
 
@@ -105,14 +106,14 @@ Students will receive an invite to join a Slack channel for the class, which the
 
 | Week | Date| Topic|
 | :--- | :--- | :--- |
-| 1 | August 28 | Introduction 
-| 2 | September 4 | Descriptive Statistics 
-| 3 | September 11| Discrete Distributions 
-| 4 | September 18 | Continuous Distributions 
-| 5 | September 25 | The Central Limit Theorem 
-| 6 | October 2 | **Midterm** 
-|  | October 9 | No Class* 
-|  | October 16 | No Class** 
+| 1 | August 28 | Introduction
+| 2 | September 4 | Descriptive Statistics
+| 3 | September 11| Discrete Distributions
+| 4 | September 18 | Continuous Distributions
+| 5 | September 25 | The Central Limit Theorem
+| 6 | October 2 | **Midterm**
+|  | October 9 | No Class*
+|  | October 16 | No Class**
 | 7 | October 23 | Hypothesis Testing
 | 8 | October 30 | Hypothesis Testing II
 | 9 | November 6 | Relationships Between Variables
@@ -123,10 +124,10 @@ Students will receive an invite to join a Slack channel for the class, which the
 | 13 | December 11| Final Review
 | 14 | December 18 | Final Exam****
 
-\* No class October 9 due to Rosh Hashanah 
-\** CCNY follows a Monday schedule on October 16
-\*** As much as I would love to have class on 9 PM the night before Thanksgiving...
-\**** Final Exam date subject to change
+\* No class October 9 due to Rosh Hashanah  
+\** CCNY follows a Monday schedule on October 16  
+\*** Night before Thanksgiving   
+\**** Final Exam date subject to change  
 
 
 ## CUNY Policy on Academic Integrity
