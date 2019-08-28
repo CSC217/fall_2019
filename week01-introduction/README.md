@@ -4,7 +4,7 @@ This week will be light on material and will focus on some administrative stuff 
 
 ## Lecture
 
-See [here](https://github.com/CSC217/fall_2019/blob/master/week01-introduction/Week_One_Introduction.pdf) for this week's lecture.
+See [here](https://github.com/CSC217/fall_2019/blob/master/week01-introduction/Week_One_Introduction_Slides.pdf) for this week's lecture.
 
 ## Homework
 
@@ -17,9 +17,13 @@ Chapters 1 and 2.
 
 \*Chapter 1 is an introduction while Chapter 2 will help prepare you for next week
 
+#### [Introduction to Probability](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading2.pdf)
+
+Part 1 and Part 2 here cover the material on probability we went over in lecture.
+
 #### [Introduction to Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading10a.pdf)
 
-
+Part 1 and Part 2 here cover the material on statistics we went over in lecture.
 
 #### [Getting Started With Jupyter Notebook for Python](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46)  
 The first part of this article involves downloading Anaconda, which is part of your assignment this week - the second part has some of the tips for using Jupyter that we went over in class. Using Jupyter is essential to the course and it's important that you get comfortable with it.
