@@ -18,7 +18,7 @@ Jie Lan lanjie3458@gmail.com​ will be the peer tutor for this class. The first
 
 ## Lecture
 
-See [here](https://github.com/CSC217/fall_2019/blob/master/week02-descriptive_statistics/Week_Two_Descriptive_Stats.pdf) for this week's lecture.
+See [here](https://github.com/CSC217/fall_2019/blob/master/week02-descriptive_statistics/Week_Two_Descriptive_Statistics.pdf) for this week's lecture.
 
 ## Homework
 
