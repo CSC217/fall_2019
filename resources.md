@@ -14,9 +14,25 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Introduction to Probability](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading2.pdf)
 
+### Discrete Distributions
+
+##### [Discrete Distributions](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading4a.pdf)
+
+##### [What Does Randomness Look Like? (Spoiler: Poisson Distribution)](https://www.wired.com/2012/12/what-does-randomness-look-like/)
+
 ## Statistics
 
 ##### [Introduction to Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading10a.pdf)
+
+
+### Descriptive Statistics
+
+##### [Unlearning Descriptive Statistics](http://debrouwere.org/2017/02/01/unlearning-descriptive-statistics)
+
+##### [Exploratory Data Analysis - Jupyter Notebook](https://github.com/rasbt/data-science-tutorial/blob/master/code/eda.ipynb)
+
+##### [Summary Statistics - Jupyter Notebook](https://github.com/rasbt/data-science-tutorial/blob/master/code/summary-stats.ipynb)
+
 
 ## Software
 
@@ -31,3 +47,31 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 ##### [Intro to Pandas Data Structures](http://gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
 
 ##### [Things in Pandas I Wish I'd Known Earlier](https://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)
+
+### Data Visualization
+
+##### [Matplotlib Tutorial](http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html)
+
+##### [Python Plotting With Matplotlib (Guide)](https://realpython.com/python-matplotlib-guide)
+
+##### [Top 50 Matplotlib Visualizations](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python)
+
+##### [Python Graph Gallery](https://python-graph-gallery.com)
+
+##### [Why We Love The CDF And Do Not Like Histograms That Much](http://debrouwere.org/2017/02/01/unlearning-descriptive-statistics)
+
+### Git
+
+##### [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+
+## Life
+
+### News Articles Referenced In Class
+
+##### [Most Canadians Are Now Better Off Than Most Americans](https://www.bloomberg.com/opinion/articles/2019-08-29/america-s-middle-class-is-losing-ground-to-canada-s)
+
+##### [A Look At the Social Media Followers of Current 2020 Presidential Candidates (Optional)](https://www.abcactionnews.com/news/national/a-look-at-the-social-media-followers-of-current-2020-presidential-candidates)
+
+### Other News Articles
+
+##### [What Statistics Can and Can't Tell Us About Ourselves (Optional)](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves)
