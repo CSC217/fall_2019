@@ -11,7 +11,7 @@ If you've downloaded the class repo to your local computer, be sure to go into y
 **October 2**  
 *Midterm*
 
-**October 23**  
+**October 16**  
 *First Project Deliverable Due**
 
 ## Administrative
