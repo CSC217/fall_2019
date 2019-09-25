@@ -12,7 +12,7 @@ If you've downloaded the class repo to your local computer, be sure to go into y
 *Midterm*
 
 **October 16**  
-*First Project Deliverable Due**
+*First Project Deliverable Due*
 
 ## Administrative
 
