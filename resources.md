@@ -20,9 +20,23 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [What Does Randomness Look Like? (Spoiler: Poisson Distribution)](https://www.wired.com/2012/12/what-does-randomness-look-like/)
 
+### Continuous Distributions
+
+##### [Continuous Random Variables](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5b.pdf)
+
+##### [Continuous Random Distributions](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5c.pdf)
+
+### Central Limit Theorem
+
+##### [Central Limit Theorem and the Law of Large Numbers](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading6b.pdf)
+
+##### [Central Limit Theorem and its Implications for Statistical Inference](https://tutorials.methodsconsultants.com/posts/the-central-limit-theorem-and-its-implications-for-statistical-inference/)
+
 ## Statistics
 
 ##### [Introduction to Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading10a.pdf)
+
+##### [Statistics Cheat Sheet](https://github.com/CSC217/fall_2019/blob/master/week04-continuous_distributions/statistics_cheat_sheet.pdf)
 
 
 ### Descriptive Statistics
@@ -64,14 +78,22 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
 
+##### [Git Cheat Sheet](https://github.com/CSC217/fall_2019/blob/master/week04-continuous_distributions/git_cheat_sheet.jpeg)
+
 ## Life
 
 ### News Articles Referenced In Class
 
 ##### [Most Canadians Are Now Better Off Than Most Americans](https://www.bloomberg.com/opinion/articles/2019-08-29/america-s-middle-class-is-losing-ground-to-canada-s)
 
-##### [A Look At the Social Media Followers of Current 2020 Presidential Candidates (Optional)](https://www.abcactionnews.com/news/national/a-look-at-the-social-media-followers-of-current-2020-presidential-candidates)
+##### [A Look At the Social Media Followers of Current 2020 Presidential Candidates](https://www.abcactionnews.com/news/national/a-look-at-the-social-media-followers-of-current-2020-presidential-candidates)
 
 ### Other News Articles
 
-##### [What Statistics Can and Can't Tell Us About Ourselves (Optional)](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves)
+##### [What Statistics Can and Can't Tell Us About Ourselves](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves)
+
+##### [Where Quantum Probability Comes From (Optional)](https://app.getpocket.com/read/2719690927)
+
+### Life as a Data Scientist
+
+##### [12 Things I Wish I'd Known Before Starting as a Data Scientist (Optional)](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e)
