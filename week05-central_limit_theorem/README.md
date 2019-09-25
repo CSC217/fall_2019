@@ -49,3 +49,5 @@ Interesting article on how probability applies to quantum mechanics.
 
 #### [12 Things I Wish I'd Known Before Starting as a Data Scientist (Optional)](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e)
 May be helpful for those of you considering going into data science.
+
+#### [Artifical Intelligence Takes On Earthquake Prediction (Optional)](https://www.quantamagazine.org/artificial-intelligence-takes-on-earthquake-prediction-20190919)

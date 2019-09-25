@@ -94,6 +94,8 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Where Quantum Probability Comes From (Optional)](https://app.getpocket.com/read/2719690927)
 
+##### [Artifical Intelligence Takes On Earthquake Prediction](https://www.quantamagazine.org/artificial-intelligence-takes-on-earthquake-prediction-20190919)
+
 ### Life as a Data Scientist
 
 ##### [12 Things I Wish I'd Known Before Starting as a Data Scientist (Optional)](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e)
