@@ -23,15 +23,15 @@ See [here](https://github.com/CSC217/fall_2019/blob/master/project_info.md) for 
 
 ## Pandas Basics
 
-See [here](https://github.com/CSC217/fall_2019/blob/masterweek06-midterm/Pandas_Basics.ipynb) for a brief refresher on loading in different file types and cleaning data in Pandas.
+See [here](https://github.com/CSC217/fall_2019/blob/master/week06-midterm/Pandas_Basics.ipynb) for a brief refresher on loading in different file types and cleaning data in Pandas.
 
 ## Example Projects
 
 Below are two projects submitted last semester that got perfect marks.
 
-#### [Example Project One](https://github.com/CSC217/fall_2019/blob/masterweek06-midterm/example_projects/Example_Project_One.ipynb)
+#### [Example Project One](https://github.com/CSC217/fall_2019/blob/master/week06-midterm/example_projects/Example_Project_One.ipynb)
 
-#### [Example Project Two](https://github.com/CSC217/fall_2019/blob/masterweek06-midterm/example_projects/Example_Project_Two.ipynb)
+#### [Example Project Two](https://github.com/CSC217/fall_2019/blob/master/week06-midterm/example_projects/Example_Project_Two.ipynb)
 
 ## Data Sources
 Here are some data sources to give you some starting points:
