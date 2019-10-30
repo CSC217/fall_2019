@@ -26,6 +26,8 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Continuous Random Distributions](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading5c.pdf)
 
+##### [T-Distribution vs. Normal Distribution](http://mathlets.org/mathlets/t-distribution/)
+
 ### Central Limit Theorem
 
 ##### [Central Limit Theorem and the Law of Large Numbers](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading6b.pdf)
@@ -47,6 +49,19 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Summary Statistics - Jupyter Notebook](https://github.com/rasbt/data-science-tutorial/blob/master/code/summary-stats.ipynb)
 
+### Hypothesis Testing
+
+##### [Introduction to Hypothesis Testing](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading17b.pdf)
+
+##### [More Hypothesis Testing](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading18.pdf)
+
+##### [Even More Hypothesis Testing](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading19.pdf)
+
+##### [Running Chi-Square Tests With Die Roll Data in Python](https://towardsdatascience.com/running-chi-square-tests-in-python-with-die-roll-data-b9903817c51b)
+
+### Bootstrapping
+
+##### [Bootstrap Confidence Intervals](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf)
 
 ## Software
 
@@ -74,6 +89,8 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [Why We Love The CDF And Do Not Like Histograms That Much](http://debrouwere.org/2017/02/01/unlearning-descriptive-statistics)
 
+##### [Mistakes, We've Drawn a Few](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368)
+
 ### Git
 
 ##### [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
@@ -92,10 +109,18 @@ Below are the cumulative resources cited in this class. Hopefully this will be u
 
 ##### [What Statistics Can and Can't Tell Us About Ourselves](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves)
 
-##### [Where Quantum Probability Comes From (Optional)](https://app.getpocket.com/read/2719690927)
+##### [Where Quantum Probability Comes From (Optional)](https://www.quantamagazine.org/where-quantum-probability-comes-from-20190909/)
 
 ##### [Artifical Intelligence Takes On Earthquake Prediction](https://www.quantamagazine.org/artificial-intelligence-takes-on-earthquake-prediction-20190919)
 
+##### [Scientists Rise up Against Statistical Significance](https://www.nature.com/articles/d41586-019-00857-9)
+
+##### [How I Eat For Free in NYC Using Python, Automation, Artificial Intelligence, and Instagram](https://medium.com/@chrisbuetti/how-i-eat-for-free-in-nyc-using-python-automation-artificial-intelligence-and-instagram-a5ed8a1e2a10)
+
+##### [How Randomness Can Arise From Determinism](https://www.quantamagazine.org/how-randomness-can-arise-from-determinism-20191014/)
+
 ### Life as a Data Scientist
 
-##### [12 Things I Wish I'd Known Before Starting as a Data Scientist (Optional)](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e)
+##### [12 Things I Wish I'd Known Before Starting as a Data Scientist](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e)
+
+##### [Ten Lessons I Learned While Teaching Myself to Code](https://tim.blog/2019/03/21/learn-to-code)
