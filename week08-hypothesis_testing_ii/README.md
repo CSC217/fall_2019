@@ -17,7 +17,7 @@ If you've downloaded the class repo to your local computer, be sure to go into y
 
 ## Lecture
 
-See [here](https://github.com/CSC217/fall_2019/blob/master/week08-hypothesis_testing_ii/Week_Seven_Hypothesis_Testing.ipynb) for this week's lecture.
+See [here](https://github.com/CSC217/fall_2019/blob/master/week08-hypothesis_testing_ii/Week_Eight_Hypothesis_Testing_II.ipynb) for this week's lecture.
 
 ## Homework
 
