@@ -3,9 +3,13 @@ channels:
   - damianavila82
   - conda-forge
 dependencies:
-  - python
-  - numpy
-  - matplotlib
-  - pandas
+  - numpy==1.16.4
+  - pandas==0.24.2
+  - matplotlib==2.1.0
+  - seaborn==0.9.0
+  - scipy==1.2.0
+  - lxml==4.2.5
+  - xlrd==1.1.0
+  - statsmodels==0.9.0
   - bokeh
   - rise
