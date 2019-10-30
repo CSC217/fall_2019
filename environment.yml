@@ -3,6 +3,7 @@ channels:
   - damianavila82
   - conda-forge
 dependencies:
+  - bokeh
   - rise
   - pip
   - pip:
