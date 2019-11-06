@@ -22,7 +22,7 @@ See [here](https://github.com/CSC217/fall_2019/blob/master/week09-relationships_
 
 ## Classwork
 
-See [here](https://github.com/CSC217/fall_2019/blob/master/week09-relationships_between_variables/Hypothesis_Testing_II_Class_Workbook.ipynb) for this week's classwork.
+See [here](https://github.com/CSC217/fall_2019/blob/master/week09-relationships_between_variables/Relationships_Between_Variables_Workbook.ipynb) for this week's classwork.
 
 ## Extra Credit Assignment
 
