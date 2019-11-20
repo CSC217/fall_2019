@@ -21,11 +21,11 @@ See [here](https://github.com/CSC217/fall_2019/blob/master/week11-regression_ii/
 
 ## Homework
 
-See [here](https://github.com/CSC217/fall_2019/blob/master/week11-regression_ii/Homework_Eleven.ipynb) for this week's homework. Homework is due December 4th at 6:30 PM sharp. Anything submitted after that will receive a 0.
+See [here](https://github.com/CSC217/fall_2019/blob/master/week11-regression_ii/Week_Eleven_Homework.ipynb) for this week's homework. Homework is due December 4th at 6:30 PM sharp. Anything submitted after that will receive a 0.
 
 ## Classwork
 
-See [here](https://github.com/CSC217/fall_2019/blob/master/week11-regression_ii/Regression_Workbook.ipynb) for this week's classwork.
+See [here](https://github.com/CSC217/fall_2019/blob/master/week11-regression_ii/More_Regression_Workbook.ipynb) for this week's classwork.
 
 ## Extra Credit Assignments
 
